@@ -3,7 +3,7 @@
         {
             "id": "custom_263",
             "name": "Title Update 69",
-            "description": "A 3D Menu World to customize your VR mode menu environment.",
+            "description": "A 3D Menu World to customize your VR mode menu environment.\n\nIncludes a matching tutorial world!",
             "downloadURI": "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/default-menu-world.zip",
             "imageUrl": "https://kashi0728.github.io/mcse.store.private.modpack-menu-worlds_26.3/standard_preview_images/default-menu-world-pa.png",
             "bundlePacks": [
@@ -20,7 +20,7 @@
         {
             "id": "custom_263",
             "name": "Title Update 46",
-            "description": "A 3D Menu World to customize your VR mode menu environment.",
+            "description": "A 3D Menu World to customize your VR mode menu environment.\n\nIncludes a matching tutorial world!",
             "downloadURI": "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/tu46-menu-world.zip",
             "imageUrl": "https://kashi0728.github.io/mcse.store.private.modpack-menu-worlds_26.3/standard_preview_images/tu46-menu-world-pa.png",
             "bundlePacks": [
@@ -37,7 +37,7 @@
         {
             "id": "custom_263",
             "name": "Title Update 31",
-            "description": "A 3D Menu World to customize your VR mode menu environment.",
+            "description": "A 3D Menu World to customize your VR mode menu environment.\n\nIncludes a matching tutorial world!",
             "downloadURI": "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/tu31-menu-world.zip",
             "imageUrl": "https://kashi0728.github.io/mcse.store.private.modpack-menu-worlds_26.3/standard_preview_images/tu31-menu-world-pa.png",
             "bundlePacks": [
@@ -54,7 +54,7 @@
         {
             "id": "custom_263",
             "name": "Title Update 20",
-            "description": "A 3D Menu World to customize your VR mode menu environment.",
+            "description": "A 3D Menu World to customize your VR mode menu environment.\n\nIncludes a matching tutorial world!",
             "downloadURI": "https://kashi0728.github.io/mcse.store.private.modpack-menu-worlds_26.3/standard_content/tu20-menu-world.zip",
             "imageUrl": "https://kashi0728.github.io/mcse.store.private.modpack-menu-worlds_26.3/standard_preview_images/tu20-menu-world-pa.png",
             "bundlePacks": [
@@ -65,6 +65,23 @@
                     "description": "A Panorama to customize your main menu.\n\nIncludes a matching tutorial world!",
                     "downloadURI": "https://kashi0728.github.io/mcse.store.private.modpack-menu-pack_26.3/standard_content/tu20-classic-panorama-pa.zip",
                     "imageUrl": "https://kashi0728.github.io/mcse.store.private.modpack-menu-pack_26.3/standard_preview_images/tu20-classic-panorama.png"
+                }
+            ]
+        },
+        {
+            "id": "custom_263",
+            "name": "Title Update 12",
+            "description": "A 3D Menu World to customize your VR mode menu environment.\n\nIncludes a matching tutorial world!",
+            "downloadURI": "https://kashi0728.github.io/mcse.store.private.modpack-menu-worlds_26.3/standard_content/tu12-menu-world.zip",
+            "imageUrl": "https://kashi0728.github.io/mcse.store.private.modpack-menu-worlds_26.3/standard_preview_images/tu12-menu-world-pa.png",
+            "bundlePacks": [
+                {
+                    "categoryId": "mcse_menu-packs",
+                    "id": "assets",
+                    "name": "Title Update 12",
+                    "description": "A Panorama to customize your main menu.\n\nIncludes a matching tutorial world!",
+                    "downloadURI": "https://kashi0728.github.io/mcse.store.private.modpack-menu-pack_26.3/standard_content/tu12-classic-panorama-pa.zip",
+                    "imageUrl": "https://kashi0728.github.io/mcse.store.private.modpack-menu-pack_26.3/standard_preview_images/tu12-classic-panorama.png"
                 }
             ]
         }
