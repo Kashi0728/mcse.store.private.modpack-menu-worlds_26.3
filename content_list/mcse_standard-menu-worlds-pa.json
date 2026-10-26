@@ -59,7 +59,7 @@
             "imageUrl": "https://kashi0728.github.io/mcse.store.private.modpack-menu-worlds_26.3/standard_preview_images/tu20-menu-world-pa.png",
             "bundlePacks": [
                 {
-                    "categoryId": "mcse_menu-packs",
+                    "categoryId": "mcse_menu-packs-pa",
                     "id": "assets",
                     "name": "Title Update 20",
                     "description": "A Panorama to customize your main menu.\n\nIncludes a matching tutorial world!",
@@ -76,7 +76,7 @@
             "imageUrl": "https://kashi0728.github.io/mcse.store.private.modpack-menu-worlds_26.3/standard_preview_images/tu12-menu-world-pa.png",
             "bundlePacks": [
                 {
-                    "categoryId": "mcse_menu-packs",
+                    "categoryId": "mcse_menu-packs-pa",
                     "id": "assets",
                     "name": "Title Update 12",
                     "description": "A Panorama to customize your main menu.\n\nIncludes a matching tutorial world!",
